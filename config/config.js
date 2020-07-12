@@ -1,0 +1,1 @@
+module.exports.SEED = 'tokentest_cambiar';
